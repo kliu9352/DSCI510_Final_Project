@@ -1,0 +1,17 @@
+.env
+venv/
+*.json
+
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
+.DS_Store
+
+.ipynb_checkpoints
+
+data/
+results/
+
+notes.md
